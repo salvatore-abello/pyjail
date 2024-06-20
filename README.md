@@ -23,7 +23,7 @@ A collection of pyjails!
 | Fire Checker     | L3ak CTF 2024     | ★★     |
 | Magic Trick     | L3ak CTF 2024     | ★★     |
 | MyJail     | NBCTF 2023      | ★★     |
-| sandbox-v1     | Olicyber 2023      | ★     |
-| sandbox-v2     | Olicyber 2023      | ★     |
 | Stressful Reader     | Snake CTF 2023      | ★     |
 | The Impossible Escape     | Snake CTF 2023      | ★     |
+| sandbox-v2     | Olicyber 2023      | ★     |
+| sandbox-v1     | Olicyber 2023      | ★     |
