@@ -6,6 +6,7 @@ A collection of pyjails!
 | Name | CTF | Difficulty |
 | -------- | -------- | -------- |
 | PySysMagic     | L3ak CTF 2024     | ★★★★★     |
+| Prison Reform     | Dice CTF 2023     | ★★★★★     |
 | wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★★     |
 | the other pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
 | awpcode     | B01lers CTF 2024     | ★★★★     |
