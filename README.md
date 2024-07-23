@@ -6,6 +6,7 @@ A collection of pyjails!
 | Name | CTF | Difficulty |
 | -------- | -------- | -------- |
 | PySysMagic     | L3ak CTF 2024     | ★★★★★     |
+| Prison Reform     | Dice CTF 2023     | ★★★★★     |
 | wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★★     |
 | the other pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
 | awpcode     | B01lers CTF 2024     | ★★★★     |
@@ -23,7 +24,7 @@ A collection of pyjails!
 | Fire Checker     | L3ak CTF 2024     | ★★     |
 | Magic Trick     | L3ak CTF 2024     | ★★     |
 | MyJail     | NBCTF 2023      | ★★     |
-| sandbox-v1     | Olicyber 2023      | ★     |
-| sandbox-v2     | Olicyber 2023      | ★     |
 | Stressful Reader     | Snake CTF 2023      | ★     |
 | The Impossible Escape     | Snake CTF 2023      | ★     |
+| sandbox-v2     | Olicyber 2023      | ★     |
+| sandbox-v1     | Olicyber 2023      | ★     |
