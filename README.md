@@ -20,11 +20,11 @@ A collection of pyjails!
 | Blacklisted     | B01lers CTF 2023     | ★★     |
 | ez-class     | B01lers CTF 2023     | ★★     |
 | Python Garbageman     | CSAW 2023 Finals     | ★★     |
-| deletion     | Imaginary CTF 2023     | ★★     |
 | nameless     | Iris CTF 2023     | ★★     |
-| Fire Checker     | L3ak CTF 2024     | ★★     |
 | Magic Trick     | L3ak CTF 2024     | ★★     |
 | MyJail     | NBCTF 2023      | ★★     |
+| deletion     | Imaginary CTF 2023     | ★     |
+| Fire Checker     | L3ak CTF 2024     | ★    |
 | Stressful Reader     | Snake CTF 2023      | ★     |
 | The Impossible Escape     | Snake CTF 2023      | ★     |
 | sandbox-v2     | Olicyber 2023      | ★     |
