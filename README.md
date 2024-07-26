@@ -15,7 +15,6 @@ A collection of pyjails!
 | Get and set     | Imaginary CTF 2023     | ★★★     |
 | you shall not call     | Imaginary CTF 2023     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
-| Borraccia     | TeamItaly CTF 2023      | ★★★     |
 | typo     | ifctf 2023 quals     | ★★     |
 | Blacklisted     | B01lers CTF 2023     | ★★     |
 | ez-class     | B01lers CTF 2023     | ★★     |
