@@ -20,7 +20,6 @@ A collection of pyjails!
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
 | Reptile Jail     | TFC CTF 2024     | ★★     |
 | no nonsense     | Jail CTF 2024     | ★★     |
-| Reptile Jail     | TFC CTF 2024     | ★★     |
 | typo     | ifctf 2023 quals     | ★★     |
 | Get and call     | Jail CTF 2024     | ★★     |
 | Blacklisted     | B01lers CTF 2023     | ★★     |
