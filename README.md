@@ -18,15 +18,9 @@ A collection of pyjails!
 | Get and set     | Imaginary CTF 2023     | ★★★     |
 | you shall not call     | Imaginary CTF 2023     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
-<<<<<<< Updated upstream
 | Reptile Jail     | TFC CTF 2024     | ★★     |
-=======
-<<<<<<< HEAD
 | no nonsense     | Jail CTF 2024     | ★★     |
-=======
 | Reptile Jail     | TFC CTF 2024     | ★★     |
->>>>>>> b756369e8c3bcb053f4efda79769c3c8f98b5e33
->>>>>>> Stashed changes
 | typo     | ifctf 2023 quals     | ★★     |
 | Get and call     | Jail CTF 2024     | ★★     |
 | Blacklisted     | B01lers CTF 2023     | ★★     |
