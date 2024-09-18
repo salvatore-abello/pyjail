@@ -8,12 +8,12 @@ A collection of pyjails!
 | Prison Reform     | Dice CTF 2023     | ★★★★★     |
 | MMM     | Jail CTF 2024     | ★★★★★     |
 | parseltongue     | Jail CTF 2024     | ★★★★     |
-| wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
 | PySysMagic     | L3ak CTF 2024     | ★★★★     |
 | awpcode     | B01lers CTF 2024     | ★★★★     |
 | prison     | ifctf 2023 finals     | ★★★★     |
 | Useless     | CTE 2024     | ★★★★     |
 | what flag     | Jail CTF 2024     | ★★★★     |
+| wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
 | the other pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★   |
 | calc     | Imaginary CTF 2024     | ★★★     |
 | Get and set     | Imaginary CTF 2023     | ★★★     |
