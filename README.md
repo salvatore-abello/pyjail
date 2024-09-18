@@ -34,6 +34,6 @@ A collection of pyjails!
 | Stressful Reader 3     | Snake CTF 2024 Quals      | ★     |
 | Stressful Reader 2     | Snake CTF 2024 Quals      | ★     |
 | Stressful Reader     | Snake CTF 2023      | ★     |
-| The Impossible Escape     | Snake CTF 2023      | ★     |
+| The Impossible Escape     | Srdnlen CTF 2023      | ★     |
 | sandbox-v2     | Olicyber 2023      | ★     |
 | sandbox-v1     | Olicyber 2023      | ★     |
