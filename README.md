@@ -3,7 +3,7 @@ A collection of pyjails!
 
 
 
-| Name | CTF | Difficulty |
+| Name | CTF | Difficulty & Rating |
 | -------- | -------- | -------- |
 | parseltongue     | Jail CTF 2024     | ★★★★★     |
 | Prison Reform     | Dice CTF 2023     | ★★★★★     |
