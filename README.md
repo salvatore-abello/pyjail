@@ -5,9 +5,9 @@ A collection of pyjails!
 
 | Name | CTF | Difficulty |
 | -------- | -------- | -------- |
+| parseltongue     | Jail CTF 2024     | ★★★★★     |
 | Prison Reform     | Dice CTF 2023     | ★★★★★     |
 | MMM     | Jail CTF 2024     | ★★★★★     |
-| parseltongue     | Jail CTF 2024     | ★★★★     |
 | PySysMagic     | L3ak CTF 2024     | ★★★★     |
 | awpcode     | B01lers CTF 2024     | ★★★★     |
 | prison     | ifctf 2023 finals     | ★★★★     |
