@@ -16,15 +16,18 @@ A collection of pyjails!
 | wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
 | the other pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★   |
 | calc     | Imaginary CTF 2024     | ★★★     |
+| 1linepyjail     |   SECCON CTF 2024   | ★★★     |
 | Get and set     | Imaginary CTF 2023     | ★★★     |
 | you shall not call     | Imaginary CTF 2023     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
+| Korra     | Glacier CTF 2024     | ★★★     |
 | Reptile Jail     | TFC CTF 2024     | ★★     |
 | no nonsense     | Jail CTF 2024     | ★★     |
 | typo     | ifctf 2023 quals     | ★★     |
 | Get and call     | Jail CTF 2024     | ★★     |
 | Blacklisted     | B01lers CTF 2023     | ★★     |
 | ez-class     | B01lers CTF 2023     | ★★     |
+| Monkey's Paw     | Intigriti CTF 2024     | ★★     |
 | Python Garbageman     | CSAW 2023 Finals     | ★★     |
 | nameless     | Iris CTF 2023     | ★★     |
 | Magic Trick     | L3ak CTF 2024     | ★★     |
