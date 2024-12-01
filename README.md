@@ -30,10 +30,8 @@ A collection of pyjails!
 | Monkey's Paw     | Intigriti CTF 2024     | ★★     |
 | Python Garbageman     | CSAW 2023 Finals     | ★★     |
 | nameless     | Iris CTF 2023     | ★★     |
-| Magic Trick     | L3ak CTF 2024     | ★★     |
 | MyJail     | NBCTF 2023      | ★★     |
 | deletion     | Imaginary CTF 2023     | ★     |
-| Fire Checker     | L3ak CTF 2024     | ★    |
 | Stressful Reader 3     | Snake CTF 2024 Quals      | ★     |
 | Stressful Reader 2     | Snake CTF 2024 Quals      | ★     |
 | Stressful Reader     | Snake CTF 2023      | ★     |
