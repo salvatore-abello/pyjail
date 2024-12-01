@@ -33,8 +33,8 @@ A collection of pyjails!
 | MyJail     | NBCTF 2023      | ★★     |
 | deletion     | Imaginary CTF 2023     | ★     |
 | Stressful Reader 3     | Snake CTF 2024 Quals      | ★     |
-| Stressful Reader 2     | Snake CTF 2024 Quals      | ★     |
-| Stressful Reader     | Snake CTF 2023      | ★     |
-| The Impossible Escape     | Srdnlen CTF 2023      | ★     |
-| sandbox-v2     | Olicyber 2023      | ★     |
-| sandbox-v1     | Olicyber 2023      | ★     |
+| Stressful Reader 2     | Snake CTF 2024 Quals      | Beginner     |
+| Stressful Reader     | Snake CTF 2023      | Beginner     |
+| The Impossible Escape     | Srdnlen CTF 2023      | Beginner     |
+| sandbox-v2     | Olicyber 2023      | Beginner     |
+| sandbox-v1     | Olicyber 2023      | Beginner     |
