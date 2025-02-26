@@ -20,6 +20,7 @@ A collection of pyjails!
 | Get and set     | Imaginary CTF 2023     | ★★★     |
 | you shall not call     | Imaginary CTF 2023     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
+| Golf     | TRX CTF 2025     | ★★★     |
 | Korra     | Glacier CTF 2024     | ★★★     |
 | Reptile Jail     | TFC CTF 2024     | ★★     |
 | no nonsense     | Jail CTF 2024     | ★★     |
