@@ -24,6 +24,7 @@ A collection of pyjails!
 | Comments Only     | UIUCTF 2025     | ★★★     |
 | Golf     | TRX CTF 2025     | ★★★     |
 | Korra     | Glacier CTF 2024     | ★★★     |
+| pyfuck     | Crew CTF 2025     | ★★     |
 | Reptile Jail     | TFC CTF 2024     | ★★     |
 | no nonsense     | Jail CTF 2024     | ★★     |
 | typo     | ifctf 2023 quals     | ★★     |
