@@ -19,8 +19,8 @@ A collection of pyjails!
 | calc     | Imaginary CTF 2024     | ★★★     |
 | 1linepyjail     |   SECCON CTF 2024   | ★★★     |
 | Get and set     | Imaginary CTF 2023     | ★★★     |
-| you shall not call     | Imaginary CTF 2023     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
+| you shall not call     | Imaginary CTF 2023     | ★★★     |
 | Comments Only     | UIUCTF 2025     | ★★★     |
 | Golf     | TRX CTF 2025     | ★★★     |
 | Korra     | Glacier CTF 2024     | ★★★     |
