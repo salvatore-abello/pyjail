@@ -19,6 +19,7 @@ A collection of pyjails!
 | calc     | Imaginary CTF 2024     | ★★★     |
 | 1linepyjail     |   SECCON CTF 2024   | ★★★     |
 | Get and set     | Imaginary CTF 2023     | ★★★     |
+| one     | Jail CTF 2025     | ★★★     |
 | you shall not call revenge     | Imaginary CTF 2023     | ★★★     |
 | you shall not call     | Imaginary CTF 2023     | ★★★     |
 | Comments Only     | UIUCTF 2025     | ★★★     |
@@ -41,5 +42,6 @@ A collection of pyjails!
 | Stressful Reader 2     | Snake CTF 2024 Quals      | Beginner     |
 | Stressful Reader     | Snake CTF 2023      | Beginner     |
 | The Impossible Escape     | Srdnlen CTF 2023      | Beginner     |
+| Blindness     | Jail CTF 2025      | Beginner     |
 | sandbox-v2     | Olicyber 2023      | Beginner     |
 | sandbox-v1     | Olicyber 2023      | Beginner     |
