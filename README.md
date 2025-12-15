@@ -25,6 +25,7 @@ A collection of pyjails!
 | Comments Only     | UIUCTF 2025     | ★★★     |
 | Golf     | TRX CTF 2025     | ★★★     |
 | Irreducible-2     |   Hero CTF 2025   | ★★★     |
+| excepython     | SECCON CTF Quals 2025     | ★★★     |
 | Korra     | Glacier CTF 2024     | ★★★     |
 | pyfuck     | Crew CTF 2025     | ★★     |
 | Reptile Jail     | TFC CTF 2024     | ★★     |
