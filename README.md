@@ -14,6 +14,7 @@ A collection of pyjails!
 | what flag     | Jail CTF 2024     | ★★★★     |
 | Useless     | CTE 2024     | ★★★★     |
 | wow its another pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★★     |
+| Babel     | TRX CTF 2026     | ★★★★     |
 | JailAsFuk     | m0lecon CTF 2025     | ★★★★     |
 | the other pyjail     | Lexington Informatics Torunament CTF 2023     | ★★★   |
 | calc     | Imaginary CTF 2024     | ★★★     |
@@ -25,6 +26,7 @@ A collection of pyjails!
 | Comments Only     | UIUCTF 2025     | ★★★     |
 | Golf     | TRX CTF 2025     | ★★★     |
 | Irreducible-2     |   Hero CTF 2025   | ★★★     |
+| Procrustes     | TRX CTF 2026     | ★★★     |
 | excepython     | SECCON CTF Quals 2025     | ★★★     |
 | Korra     | Glacier CTF 2024     | ★★★     |
 | pyfuck     | Crew CTF 2025     | ★★     |
